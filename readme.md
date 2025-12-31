@@ -115,7 +115,3 @@ Charts are generated using Python and are intended to visually highlight structu
 ## Disclaimer
 
 This project is for educational and analytical purposes only and does not constitute investment advice. All views expressed are based on publicly available data and are subject to change as market conditions evolve.
-
-
-
-```python

@@ -119,5 +119,3 @@ This project is for educational and analytical purposes only and does not consti
 
 
 ```python
-Именв
-```

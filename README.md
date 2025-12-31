@@ -79,6 +79,8 @@ The repository includes a set of charts designed to support the analytical narra
 
 Charts are generated using Python and are intended to visually highlight structural trends, policy sensitivity and balance-driven risks rather than short-term price forecasting.
 
+![OECD supply-demand balance](figures/doc_crude_supply_balance.png)
+
 ---
 
 ## Methodology

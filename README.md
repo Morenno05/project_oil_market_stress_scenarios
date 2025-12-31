@@ -1,4 +1,4 @@
-# Oil Market Stress Scenarios and Price Sensitivity Analysis
+# Scenario-based analysis of global oil market dynamics, OPEC+ policy sensitivity and geopolitical risk.
 
 ## Overview
 
